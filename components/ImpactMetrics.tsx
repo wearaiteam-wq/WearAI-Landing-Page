@@ -58,7 +58,7 @@ const ImpactMetrics = () => {
                         {/* The Header of the Graph */}
                         <div className="absolute top-8 left-8">
                             <span className="text-sm text-gray-400 uppercase tracking-widest">Projected Revenue</span>
-                            <div className="text-3xl font-bold text-white mt-1">$124,500 <span className="text-sm font-normal text-green-400 ml-2">(+22%)</span></div>
+                            <div className="text-3xl font-bold text-white mt-1">₹124,500 <span className="text-sm font-normal text-green-400 ml-2">(+22%)</span></div>
                         </div>
 
                         {/* The SVG Graph Line */}
@@ -134,3 +134,4 @@ const StatCard = ({ icon, label, value, desc }: any) => (
 );
 
 export default ImpactMetrics;
+
