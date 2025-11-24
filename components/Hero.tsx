@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
                         >
                             <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-white/5 border border-white/10 mb-6 backdrop-blur-md">
                                 <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
-                                <span className="text-xs font-medium text-gray-300 uppercase tracking-wide">v2.0 Model Live</span>
+                                <span className="text-xs font-medium text-gray-300 uppercase tracking-wide">v1.0 Model Live</span>
                             </div>
                             <h1 className="text-5xl lg:text-7xl font-bold tracking-tight text-white leading-[1.1]">
                                 The Changing Room <br />
@@ -143,3 +143,4 @@ const Hero: React.FC = () => {
 };
 
 export default Hero;
+
