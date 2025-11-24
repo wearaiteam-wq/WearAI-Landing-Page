@@ -24,7 +24,7 @@ const features = [
     {
         name: "Cost Model",
         generic: "Expensive Monthly Credits",
-        wearai: "Bring Your Own Key (Cost Effective)",
+        wearai: "We Handle Everything",
     },
 ];
 
@@ -78,3 +78,4 @@ export default function ComparisonTable() {
         </section>
     );
 }
+
