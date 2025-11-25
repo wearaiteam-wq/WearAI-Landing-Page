@@ -56,7 +56,7 @@ const AdminBento = () => {
                                 </div>
                                 <div className="bg-white/5 p-4 rounded-xl border border-white/5 bg-gradient-to-br from-wearai-primary/10 to-transparent">
                                     <div className="text-xs text-gray-300 mb-1">Revenue Generated</div>
-                                    <div className="text-2xl font-bold text-wearai-accent">$1,54,778</div>
+                                    <div className="text-2xl font-bold text-wearai-accent">₹1,54,778</div>
                                 </div>
                             </div>
                             {/* Fake Chart placeholders */}
@@ -189,3 +189,4 @@ const AdminBento = () => {
 };
 
 export default AdminBento;
+
